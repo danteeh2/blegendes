@@ -100,5 +100,5 @@ gakbetah(){window.open(karun5+karung4)}$("#ad").each((function(){$(this).attr("h
 
 (beras1),kontlinked=Base64.decode(kontlink).replace("http://","").replace("https://",""),kontlinkedfix=encodeURIComponent
 
-(kontlinked);function betah(){window.open(""+kontlinked)}
+(kontlinked);function betah(){window.open("https://"+kontlinked)}
 //# sourceMappingURL=/sm/a2068577572c68bc18a31a0af5fbb0d5bafb0778477afac94c6133d9eccdfe4e.map
